@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {           
+            "env": {
+                "IOTA_SEED_SECRET": "2056e4048598b754b353e97b72ed735a2675b22258c2e88cae27ac926fc25955",
+                "port":"1337"
+            }
+            
+        }
+    ]
+}
